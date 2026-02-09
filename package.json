@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "tsdown"
+  },
+  "dependencies": {
+    "preact": "^10.28.3",
+    "sonner": "^2.0.7"
+  },
+  "devDependencies": {
+    "tsdown": "^0.9.0"
+  }
+}
