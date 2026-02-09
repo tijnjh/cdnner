@@ -8,13 +8,13 @@ just import the following URL somewhere in your project
 (the sha is optional, but recommended to pin it to a certain commit)
 
 ```
-https://cdn.jsdelivr.net/gh/tijnjh/cdnner@a6f1947/dist/main.js
+https://cdn.jsdelivr.net/gh/tijnjh/cdnner@f20eda4/dist/main.js
 ```
 
 you can even pass props to the Toaster element via url params
 
 ```
-https://cdn.jsdelivr.net/gh/tijnjh/cdnner@a6f1947/dist/main.js?richColors=true&position=top-right
+https://cdn.jsdelivr.net/gh/tijnjh/cdnner@f20eda4/dist/main.js?richColors=true&position=top-right
 ```
 
 
